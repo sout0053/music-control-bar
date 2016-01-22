@@ -118,6 +118,7 @@ body {
 
 .control-heart {
   position: absolute;
-  top: 1em;
-  right: 3em
+  top: .45rem;
+  right: 1.75rem;
+  font-size: 1.5rem;
 }
