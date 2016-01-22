@@ -112,8 +112,8 @@ body {
 
 .control-list {
   position: absolute;
-  top: 1em;
-  right: 2em
+  top: .25rem;
+  right: .25rem
 }
 
 .control-heart {
