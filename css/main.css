@@ -89,7 +89,7 @@ body {
 
 .time-total {
   position: absolute;
-  right: 1rem;
+  right: .25rem;
   top: 1.5rem;
   font-size: .7rem;
 }
