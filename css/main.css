@@ -45,8 +45,9 @@ body {
 
 .album {
   position: absolute;
-  left: 1em;
-
+  left: 0;
+  top: 0;
+  width: 50px;
 }
 
 .time {
