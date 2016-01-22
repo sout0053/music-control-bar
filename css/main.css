@@ -82,13 +82,15 @@ body {
 
 .time-lapsed {
   position: absolute;
-  left: 1em;
+  left: 3.5rem;
+  top: 1.5rem;
   font-size: .7rem;
 }
 
 .time-total {
   position: absolute;
-  right: 1em;
+  right: 1rem;
+  top: 1.5rem;
   font-size: .7rem;
 }
 
